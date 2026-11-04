@@ -191,7 +191,11 @@ export const machineryCategories = [
         name: "Commercial 12-Tray Electric Steamer (50 kg)",
         img: "/assets/electricsteamer12tre50kgcapacityFullyssbodyParis.jpeg",
         desc: "Premium institutional multi-tier food steamer constructed with a fully stainless steel body, heavy-duty door latches, and smooth caster wheels for effortless kitchen mobility.",
-        specs: ["Capacity: 50 kg / 12 Heavy-Duty Trays", "Material: Complete Food-Grade Stainless Steel (SS) Body", "Mobility: Industrial swivel caster wheels with brakes", "Application: Bulk steaming of rice, idlis, momos, and vegetables"],
+specs: [
+  "Capacity: Available in 50 kg (12 Trays) & 100 kg (24 Trays) Options",
+  "Material: Complete Food-Grade Stainless Steel (SS) Body",
+  "Mobility: Industrial swivel caster wheels with brakes",
+  "Application: Bulk steaming of rice, idlis, momos, and vegetables"],
         price: "65000",
         isFeatured: false
       },
